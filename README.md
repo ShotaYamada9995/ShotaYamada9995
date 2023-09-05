@@ -6,7 +6,7 @@
 Trusting and Top skill, not money” <br/> This is my working slogan.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShotaYamada9995&label=Profile%20views&color=0e75b6&style=flat" alt="ShotaYamada9995" /> </p>
 <div align="center" dir="auto">
-<img src="https://5.imimg.com/data5/TR/OQ/MY-24528926/mobile-app-development-services-500x500.jpg" height="500" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/ShotaYamada9995/ShotaYamada9995/blob/master/img/An-Overview-of-Mobile-App-Development-Life-Cycle.png" height="500" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Mobile</h3>
